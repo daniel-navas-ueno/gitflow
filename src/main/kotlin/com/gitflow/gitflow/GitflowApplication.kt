@@ -11,5 +11,6 @@ fun main(args: Array<String>) {
     // Cambios
     val one = Integer.valueOf("1")
     val two = Integer.valueOf("2")
+    val thee = Integer.valueOf("3")
     println("Suma: " + (one + two))
 }
